@@ -1,2 +1,3 @@
-# heterogeneous-agent-computing
-A repository for the Heterogeneous-Agents Computing (HAC) project. This project aims to create a simple modular framework which can execute and estimate any heterogeneous-agent model in the economics literature. The goal is lofty but we believe a multi-pronged effort (which emphasizes innovative incentives for open collaboration) will make it a reality.
+# [Econ-ARK/HARK](https://github.com/econ-ark/HARK) is Dolo's Friend
+
+The plan is eventually to convert much of the core substance of what is in econ-ark/HARK so that it uses dolo behind the scenes (but in a way exposed to the curious user).
